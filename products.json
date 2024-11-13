@@ -1,0 +1,218 @@
+[
+    {
+        "id": 1,
+        "name": "Cartoon Astronaut T-Shirts",
+        "price": "99 TND",
+        "image": "img/products/04092409833-a1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Cartoon Astronaut T-shirts",
+        "price": "99 TND",
+        "image": "img/products/03992452700-a1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Basic slim fit T-shirt",
+        "price": "70 TND",
+        "image": "img/products/05584261401-p.jpg"
+    },
+    {
+        "id": 4,
+        "name": "WOVEN LEATHER SLIDES",
+        "price": "159.9 TND",
+        "image": "img/products/12708320800-a1.jpg"
+    },
+    {
+        "id": 5,
+        "name": "POLO SWEATSHIRT",
+        "price": "149.9 TND",
+        "image": "img/products/02795405043-p.jpg"
+    },
+    {
+        "id": 6,
+        "name": "EASY CARE TEXTURED SHIRT",
+        "price": "139.9 TND",
+        "image": "img/products/04198723514-p.jpg"
+    },
+    {
+        "id": 7,
+        "name": "SHIRT DRESS WITH BELT",
+        "price": "249.9 TND",
+        "image": "img/products/03395572401-p.jpg"
+    },
+    {
+        "id": 8,
+        "name": "LONG STRIPED DRESS",
+        "price": "139.900 TND",
+        "image": "img/products/02298197105-p.jpg"
+    },
+    {
+        "id": 9,
+        "name": "COMBINED LACE FITTED DRESS",
+        "price": "139.00 TND",
+        "image": "img/products/03067349250-p.jpg"
+    },
+    {
+        "id": 10,
+        "name": "RUFFLED SATIN DRESS",
+        "price": "159.00 TND",
+        "image": "img/products/02341371600-p.jpg"
+    },
+    {
+        "id": 11,
+        "name": "ZW COLLECTION SHORT DRESS WITH BUTTONS",
+        "price": "159.00 TND",
+        "image": "img/products/02060060800-p.jpg"
+    },
+    {
+        "id": 12,
+        "name": "ZW COLLECTION MATCHING CUFFED DRESS",
+        "price": "319.00 TND",
+        "image": "img/products/02327522800-p.jpg"
+    },
+    {
+        "id": 13,
+        "name": "RETRO MULTI-PIECE SNEAKERS",
+        "price": "139.00 TND",
+        "image": "img/shoes/12220320203-e2.jpg"
+    },
+    {
+        "id": 14,
+        "name": "SNEAKERS WITH HEEL DETAIL",
+        "price": "179.00 TND",
+        "image": "img/shoes/12226320001-e2.jpg"
+    },
+    {
+        "id": 15,
+        "name": "KNIT FABRIC TRAINERS",
+        "price": "139.00 TND",
+        "image": "img/shoes/12224320400-e2.jpg"
+    },
+    {
+        "id": 16,
+        "name": "MULTI-PIECE SNEAKERS",
+        "price": "99.900 TND",
+        "image": "img/shoes/12233220203-e2.jpg"
+    },
+    {
+        "id": 17,
+        "name": "SPLIT SUEDE SHOES WITH MOC TOE",
+        "price": "259.00 TND",
+        "image": "img/shoes/12509320102-e2.jpg"
+    },
+    {
+        "id": 18,
+        "name": "PRINTED TRAINERS",
+        "price": "179.00 TND",
+        "image": "img/shoes/12228220001-e2.jpg"
+    },
+    {
+        "id": 19,
+        "name": "PRINTED QUILTED BAG",
+        "price": "139.00 TND",
+        "image": "img/bags/03988007600-e1.jpg"
+    },
+    {
+        "id": 20,
+        "name": "MACRAMÉ BUCKET BAG",
+        "price": "459.00 TND",
+        "image": "img/bags/16024310700-p.jpg"
+    },
+    {
+        "id": 21,
+        "name": "MACRAMÉ BUCKET BAG",
+        "price": "729.00 TND",
+        "image": "img/bags/16046310850-p.jpg"
+    },
+    {
+        "id": 22,
+        "name": "BUCKET BAG WITH RINGS",
+        "price": "179.00 TND",
+        "image": "img/bags/16507310800-p.jpg"
+    },
+    {
+        "id": 23,
+        "name": "ASYMMETRIC CROSSBODY BAG",
+        "price": "129.00 TND",
+        "image": "img/bags/16460310716-e2.jpg"
+    },
+    {
+        "id": 24,
+        "name": "STRUCTURED BAG WITH RHINESTONES",
+        "price": "219.00 TND",
+        "image": "img/bags/16802310302-ult.jpg"
+    },
+    {
+        "id": 25,
+        "name": "STRAIGHT FIT JEANS",
+        "price": "159.00 TND",
+        "image": "img/jeans/08062400407-e1.jpg"
+    },
+    {
+        "id": 26,
+        "name": "BIKER BAGGY FIT JEANS",
+        "price": "319.00 TND",
+        "image": "img/jeans/06045430800-e1.jpg"
+    },
+    {
+        "id": 27,
+        "name": "STRAIGHT FIT JEANS",
+        "price": "219.00 TND",
+        "image": "img/jeans/01455400427-e1.jpg"
+    },
+    {
+        "id": 28,
+        "name": "STRAIGHT FIT JEANS",
+        "price": "159.00 TND",
+        "image": "img/jeans/01538433251-e1.jpg"
+    },
+    {
+        "id": 29,
+        "name": "STRAIGHT FIT JEANS",
+        "price": "159.00 TND",
+        "image": "img/jeans/08062400800-e1.jpg"
+    },
+    {
+        "id": 30,
+        "name": "UTILITY JEANS WITH POCKETS",
+        "price": "219.00 TND",
+        "image": "img/jeans/06987490505-e1.jpg"
+    },
+    {
+        "id": 31,
+        "name": "RED ZARA TEMPTATION ELIXIR PERFUME",
+        "price": "250.00 TND",
+        "image": "img/perfumes/1685947066500.jpg"
+    },
+    {
+        "id": 32,
+        "name": "ZARA RED TEMPTATION EDP 10 ML",
+        "price": "25.50 TND",
+        "image": "img/perfumes/4000.jpg"
+    },
+    {
+        "id": 33,
+        "name": "VIOLET BLOSSOM 90 ML",
+        "price": "59.90 TND",
+        "image": "img/perfumes/1679046772930.jpg"
+    },
+    {
+        "id": 34,
+        "name": "PEACH GLOW 80 ML",
+        "price": "99.90 TND",
+        "image": "img/perfumes/1687857117305.jpg"
+    },
+    {
+        "id": 35,
+        "name": "SULTRY PEAR 30 ML",
+        "price": "49.90 TND",
+        "image": "img/perfumes/1680096883025.jpg"
+    },
+    {
+        "id": 36,
+        "name": "MYSTIC ROSE 80 ML",
+        "price": "99.90 TND",
+        "image": "img/perfumes/20110625999-e1.jpg"
+    }
+]

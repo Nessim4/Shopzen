@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Account</title>
+</head>
+<body>
+    <h2>User Account</h2>
+    <div>
+        <label for="username">Username:</label>
+        <span id="username"></span>
+    </div>
+    <div>
+        <label for="email">Email:</label>
+        <span id="email"></span>
+    </div>
+    <div>
+        <label for="address">Address:</label>
+        <span id="address"></span>
+    </div>
+
+    <script>
+        // Retrieve user data from PHP script
+        var userData = <?php echo json_encode($_SESSION['userData']); ?>;
+        
+        // Set user data in the HTML
+        document.getElementById("username").innerText = userData.username;
+        document.getElementById("email").innerText = userData.email;
+        document.getElementById("address").innerText = userData.address;
+    </script>
+</body>
+</html>
